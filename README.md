@@ -1,8 +1,8 @@
-👋 Hello, I'm Lương Việt Hoàng!
+👋 Hello, I'm Hoàng!
 
 🎓 E-commerce Student | 💻 Web Developer | 📱 Mobile Developer | 🌐 Tech Enthusiast
 
-🛒 Passionate about web development and e-commerce, I specialize in creating seamless online shopping experiences.
+🛒 Passionate about web development/mobile developer and e-commerce, I specialize in creating seamless online shopping experiences.
 
 🔭 I'm dedicated to leveraging technology to optimize business processes and enhance user experiences in the e-commerce field.
 
